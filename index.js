@@ -47,7 +47,7 @@ inquirer
     },
     {
         type: 'input',
-        name: 'question',
+        name: 'email',
         message: 'How can I be contacted?',
     },
   ])
