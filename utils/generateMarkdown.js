@@ -61,7 +61,7 @@ function generateMarkdown(data) {
 [Tests](#tests)  
 [License](#license)  
 [GitHub](#github)  
-[Questions](#question)  
+[Questions](#email)  
 
 ## Usage
     ${data.usage}
