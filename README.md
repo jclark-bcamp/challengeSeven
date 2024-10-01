@@ -14,13 +14,13 @@
   Xpert learning, Instructor class projects, my dad. 
 
   ## Tests
-  N/A
+  Test video: https://youtu.be/qhyDh71Z8GU
 
   ## License
   MIT
 
   ## GitHub
-  jclark-bcamp
+ [ jclark-bcamp](https://github.com/jclark-bcamp)
 
-  ## Email
-  jnssclark@email.com
+  ## Questions
+  Contact: jnssclark@email.com
